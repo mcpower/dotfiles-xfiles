@@ -40,4 +40,5 @@ fi
 
 compton &
 numlockx &
+redshift-gtk &
 exec i3
